@@ -1,0 +1,13 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#2563eb" />
+  
+  <!-- Document shape -->
+  <rect x="8" y="6" width="16" height="20" rx="2" fill="white" />
+  
+  <!-- Text lines -->
+  <rect x="11" y="10" width="10" height="1.5" rx="0.75" fill="#2563eb" />
+  <rect x="11" y="14" width="8" height="1.5" rx="0.75" fill="#94a3b8" />
+  <rect x="11" y="18" width="10" height="1.5" rx="0.75" fill="#94a3b8" />
+  <rect x="11" y="22" width="6" height="1.5" rx="0.75" fill="#94a3b8" />
+</svg>
