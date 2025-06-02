@@ -82,7 +82,7 @@ Project Link: https://github.com/Abhijit105/roadmap-single-page-cv \
 Hosted Link: https://roadmap-single-page-cv.netlify.app
 
 # Project URL
-[https://roadmap.sh/projects/single-page-cv](https://github.com/Abhijit105/roadmap-single-page-cv)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/basic-html-website)
 
 # Submission URL
 https://roadmap.sh/projects/single-page-cv/solutions?u=67d9633ed564bded09cf7eb6
