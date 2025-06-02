@@ -1,24 +1,29 @@
 # Roadmap Single Page CV
+
 A minimal, clean and responsive single-page CV/resume template built with HTML and CSS.
 
-# Overview
+## Overview
+
 This project provides a customizable CV/resume template that can be easily modified to showcase your professional information. It features a modern design with sections for experience, education, skills, and contact information - all within a single page.
 
-# Features
+## Features
+
 - Single Page Design: All your important information condensed into one clean page
 - Print-Friendly: Optimized for printing and PDF conversion
 - Minimalist Design: Clean and professional appearance
 - Easy to Customize: Simple HTML and CSS structure for easy modifications
 - No JavaScript Required: Built with only HTML and CSS
 
-# Getting Started
+## Getting Started
 
-## Prerequisites
+### Prerequisites
+
 Basic knowledge of HTML and CSS
 A text editor (VS Code, Sublime Text, etc.)
 A web browser for testing
 
-## Installation
+### Installation
+
 1. Clone the repository
    ```bash
    git clone https://github.com/Abhijit105/roadmap-single-page-cv.git
@@ -29,6 +34,7 @@ A web browser for testing
 ## Usage
 
 ### Basic Structure
+
 The template is organized into several sections:
 
 1. Header: Your name and title
@@ -42,6 +48,7 @@ The template is organized into several sections:
 9. Interests: Personal interests and hobbies
 
 ### Creating a PDF version
+
 To create a PDF version of your CV:
 
 1. Open the HTML file in your web browser
@@ -51,6 +58,7 @@ To create a PDF version of your CV:
 5. Save the PDF to your desired location
 
 ## Browser Support
+
 This template works well in all modern browsers:
 
 - Chrome
@@ -59,6 +67,7 @@ This template works well in all modern browsers:
 - Edge
 
 ## Contributions
+
 Contributions are welcome! If you'd like to improve this template:
 
 1. Fork the repository
@@ -68,13 +77,16 @@ Contributions are welcome! If you'd like to improve this template:
 5. Open a Pull Request
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acnowledgements
+
 - Inspired by modern resume designs from the developer community
 - Built for developers looking for a clean, code-centric way to present their information
 
 ## Contact
+
 If you have any questions or suggestions, please create an issue on the GitHub repository or contact the repository owner:
 
 Abhijit105 - [GitHub Profile](https://github.com/Abhijit105)\
@@ -82,7 +94,9 @@ Project Link: https://github.com/Abhijit105/roadmap-single-page-cv \
 Hosted Link: https://roadmap-single-page-cv.netlify.app
 
 # Project URL
+
 [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/basic-html-website)
 
 # Submission URL
+
 https://roadmap.sh/projects/single-page-cv/solutions?u=67d9633ed564bded09cf7eb6
