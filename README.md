@@ -79,7 +79,7 @@ If you have any questions or suggestions, please create an issue on the GitHub r
 
 Abhijit105 - [GitHub Profile](https://github.com/Abhijit105)\
 Project Link: https://github.com/Abhijit105/roadmap-single-page-cv \
-Hosted Link: 
+Hosted Link: https://roadmap-single-page-cv.netlify.app
 
 # Project URL
 https://roadmap.sh/projects/single-page-cv
